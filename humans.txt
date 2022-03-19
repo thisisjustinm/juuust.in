@@ -13,5 +13,5 @@ Website: https://www.nyan.cat/
 
 /* SITE */
 I do like using frameworks, but for this site I decided to go old school. Hence, pure HTML,CSS and JS, all handwritten. 
-Last update:2020/03/19
+Last update:2022/03/19
 Doctype:HTML5
