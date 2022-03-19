@@ -1,0 +1,16 @@
+/* TEAM */
+Sorcerer: Justin M
+Contact: hijustinm[at]outlook[dot]com
+License: MIT License
+
+/* THANKS */
+Creator: Chris Torres
+Contact: prguitarman1@gmail.com
+Twitter: @PRguitarman
+Website: https://www.nyan.cat/
+
+(Although Nyan Cat is free to use for non-commercial purposes, the linking done here, is with permission from the original creator)
+
+/* SITE */
+Last update:2020/03/19
+Doctype:HTML5
