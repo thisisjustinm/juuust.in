@@ -12,5 +12,6 @@ Website: https://www.nyan.cat/
 (Although Nyan Cat is free to use for non-commercial purposes, the linking done here, is with permission from the original creator)
 
 /* SITE */
+I do like using frameworks, but for this site I decided to go old school. Hence, pure HTML,CSS and JS, all handwritten. 
 Last update:2020/03/19
 Doctype:HTML5
